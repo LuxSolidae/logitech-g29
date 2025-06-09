@@ -1,3 +1,5 @@
+**This library is no longer being tested or updated as I no longer have access to the hardware.**
+
 <img src="https://raw.githubusercontent.com/nightmode/logitech-g29/main/images/header.png" width="830" alt="">
 
 # Logitech G29 Racing Wheel for Node
@@ -11,7 +13,7 @@ Bring your [Logitech G29 Racing Wheel](https://www.logitechg.com/en-us/products/
 
 ## Requirements
 
-[Node](https://nodejs.org/en/) version 10.16 or greater.
+[Node](https://nodejs.org/en/) version 10.16 or the Node version required by any dependency, whichever is greater.
 
 Make sure the Logitech G29 mode switch is set to PS3. The switch is located above the middle of the steering wheel.
 
